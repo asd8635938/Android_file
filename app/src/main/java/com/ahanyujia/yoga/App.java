@@ -1,9 +1,9 @@
-package com.luban.cn.luban;
+package com.ahanyujia.yoga;
 
 import android.app.Application;
 import android.content.Context;
 import android.support.multidex.MultiDex;
-import com.luban.cn.luban.manager.NetManager;
+import com.ahanyujia.yoga.manager.NetManager;
 import com.scwang.smartrefresh.layout.SmartRefreshLayout;
 import com.scwang.smartrefresh.layout.api.DefaultRefreshFooterCreator;
 import com.scwang.smartrefresh.layout.api.DefaultRefreshHeaderCreator;

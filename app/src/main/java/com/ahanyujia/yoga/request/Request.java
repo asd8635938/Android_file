@@ -1,4 +1,4 @@
-package com.luban.cn.luban.request;
+package com.ahanyujia.yoga.request;
 
 /**
  * Created by DELL on 2018/9/3.

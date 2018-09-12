@@ -1,4 +1,4 @@
-package com.luban.cn.luban.response;
+package com.ahanyujia.yoga.response;
 
 /**
  * Created by DELL on 2018/9/3.

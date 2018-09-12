@@ -1,9 +1,9 @@
-package com.luban.cn.luban.manager;
+package com.ahanyujia.yoga.manager;
 
 import android.app.Application;
 import com.alibaba.fastjson.JSON;
-import com.luban.cn.luban.listener.onNetCallbackListener;
-import com.luban.cn.luban.response.Response;
+import com.ahanyujia.yoga.listener.onNetCallbackListener;
+import com.ahanyujia.yoga.response.Response;
 import org.xutils.common.Callback;
 import org.xutils.http.RequestParams;
 

@@ -1,11 +1,11 @@
-package com.luban.cn.luban;
+package com.ahanyujia.yoga;
 
 import android.os.Build;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.WindowManager;
 
-import com.luban.cn.luban.manager.SystemBarTintManager;
+import com.ahanyujia.yoga.manager.SystemBarTintManager;
 
 public class MainActivity extends AppCompatActivity {
 
